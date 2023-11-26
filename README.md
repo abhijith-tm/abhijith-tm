@@ -1,3 +1,4 @@
+
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Abhijith T M</h1>
 <h3 align="center">A passionate Android Developer from India</h3>
@@ -18,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/@abhijith-tm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@abhijith-tm" height="30" width="40" /></a>
+<a href="https://dev.to/@abhijith-tm" target="blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/logos-and-brands-3/512/84_Dev_logo_logos-512.png" alt="@abhijith-tm" height="30" width="40" /></a>
 <a href="https://twitter.com/abhijith_tm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhijith_tm" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/abhijith-t-m-792415223" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhijith-t-m-792415223" height="30" width="40" /></a>
 <a href="https://instagram.com/abhijith.t_m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhijith.t_m" height="30" width="40" /></a>
