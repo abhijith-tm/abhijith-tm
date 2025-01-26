@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **abhijithtm20@gmail.com**
 
-- ⚡ Fun fact **I do trading**
+- ⚡ Lets collaborate and make something great
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
