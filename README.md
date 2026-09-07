@@ -1,6 +1,6 @@
 ![MasterHead](https://github.com/abhijith-tm/abhijith-tm/blob/main/github-header-banner.png)
 <h1 align="center">Hi 👋, I'm Abhijith T M</h1>
-<h3 align="center">A passionate Android Developer from India</h3>
+
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <a href="https://twitter.com/abhijith_tm" target="blank"><img src="https://img.shields.io/twitter/follow/abhijith_tm?logo=twitter&style=for-the-badge" alt="abhijith_tm" /></a> </p>
 
