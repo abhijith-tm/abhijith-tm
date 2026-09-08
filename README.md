@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/abhijith-tm/abhijith-tm/blob/main/github-header-banner.png)
+
 <h1 align="center">Hi 👋, I'm Abhijith T M</h1>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
